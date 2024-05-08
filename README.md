@@ -1,1 +1,4 @@
 # CryptoClustering
+This challenge involves using Python and unsupervised learning to predict how cryptocurrencies are affected by 24-hour or 7-day price changes. First, load the cryptocurrency market data into a DataFrame, then normalize the data using StandardScaler() from scikit-learn. Find the optimal value for k using the elbow method, cluster the cryptocurrencies using K-means, perform Principal Component Analysis (PCA) to reduce features, find the best k value for PCA data, and cluster cryptocurrencies based on PCA data. Answer questions about the best k values and the impact of using fewer features for clustering using K-Means.
+
+This challenge was completed with the assistance of the askBCS tutors, my classs lessons and my class notes.
